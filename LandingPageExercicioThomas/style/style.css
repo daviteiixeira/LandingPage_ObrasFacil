@@ -1,0 +1,125 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600&display=swap');
+
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+   }
+
+
+
+header {
+    display: flex;
+    gap: 580px;
+    align-items: center;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #D7D7D7;
+}
+
+#logotipo {
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#navegacao {
+    margin-right: 200px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    gap: 8px;
+    display: flex;
+    color: #D7D7D7;
+    font-family: 'Nunito', sans-serif;
+}
+
+#texto_header {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.icons_social_media {
+    cursor: pointer;
+}
+
+
+main {
+    display: flex;
+    justify-content: space-between;
+    background-color:  #d7d7d75b;
+}
+
+#sessao1 {
+    margin-top: 80px;
+    margin-bottom: 120px;
+    margin-left: 200px;
+}
+
+#texto1_sessao1 {
+    margin-bottom: 5px;
+}
+
+#texto2_sessao1 {
+    color: #b3b2b2;
+}
+
+#video_sessao1 {
+    width: 465px;
+    margin-top: 30px;
+    border: #b3b2b2 solid 4px;
+    border-radius: 4px;
+}
+
+#sessao2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 90px;
+    margin-right: 200px;
+    background-color: white;
+    padding: 40px 40px 43px 17px;
+}
+
+#titulo_sessao2 {
+    margin-bottom: 17px;
+}
+
+#texto1_sessao2 {
+    color: #b3b2b2;
+    margin-bottom: 30px;
+}
+
+.botoes1_sessao2 {
+    height: 50px;
+    margin-bottom: 25px;
+    background-color:  #d7d7d75b;
+    border-color: #d7d7d731;
+    text-align: center;
+}
+
+#botao2_sessao2 {
+    background-color: rgba(76, 175, 46, 0.911);
+    color: white;
+    height: 55px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 4px;
+}
+
+#texto2_sessao2 {
+    color: #b3b2b2;
+}
+
+
+footer {
+    margin: 3px;
+    margin-left: 240px;
+}
+
