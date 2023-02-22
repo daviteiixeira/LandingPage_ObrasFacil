@@ -6,7 +6,7 @@
 
 <p>Imagem da LandingPage:</p>
 
-<img src="2023-02-18.png" alt="Falha em carregar a imagem" width="800px">
+<img src="Docs/2023-02-18.png" alt="Falha em carregar a imagem" width="800px">
 
 <br>
 
@@ -19,5 +19,5 @@
 
 <p>Aqui embaixo tem como você ver como que era para o projeto final ficar, esta foi uma aula do <a href="https://github.com/thvieira">prof. Thomas</a> proporcionado pelo <a href="https://github.com/instituto-evoluir">Instituto Evoluir</a>:</p>
 
-<img src="2023-02-15 (1).png" alt="Falha ao carregar a imagem" width="800px">
+<img src="Docs/2023-02-15 (1).png" alt="Falha ao carregar a imagem" width="800px">
 
